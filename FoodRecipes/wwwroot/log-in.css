@@ -1,0 +1,63 @@
+
+body{
+    background-color: #39a0ca;
+}
+
+#log-enter-msg{
+    margin-top: 10%;
+    font-family: Calibri;
+    text-align: center;
+    font-size: 50px;
+    color: lightgray;
+}
+.log-in-container{
+    margin-left: 40%;
+    margin-top: 3%;
+    margin-right: 40%;
+}
+
+.log-in-container p{
+    margin-top: 20px;
+    font-family: Calibri;
+    color: lightgray;
+    text-align: center;
+    font-size: 30px;
+    padding-top:0.5%;
+    padding-bottom: 0.5%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.log-in-container input{
+    text-align: center;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top:0.5%;
+    padding-bottom: 0.5%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-left: -15%;
+    font-size: 30px;
+    color: darkgray;
+}
+
+#log-in-button{
+    font-family: Calibri;
+    text-align: center;
+    font-size: 30px;
+    color: lightgray;
+    background-color: #1dbab4;
+    border-radius: 5px;
+    padding-left: 40%;
+    padding-right: 40%;
+    margin-left: -4%;
+    margin-top: 30%
+}
+
+#log-in-button:hover{
+    background-color: #1dbad1;
+    color: darkgray;
+}
+
